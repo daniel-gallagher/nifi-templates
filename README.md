@@ -1,2 +1,2 @@
 # nifi-templates
-Custom Apache NiFi templates
+Custom Apache NiFi templates and configurations
