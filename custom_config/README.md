@@ -3,12 +3,19 @@ Example of a custom configuration and notes on how to get NiFi running.
 
 # Lines Changed
 * Core Properties
+
 17 - Change to external folder
+
 19 - Change to external folder
+
 30 - Change to external folder
+
 31 - Change to external folder
+
 32 - Change to external folder
+
 34 - Speed up dashboard refresh rate
+
 36 - Add this line and point to external folder
 
 
